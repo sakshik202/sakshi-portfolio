@@ -22,7 +22,7 @@ body {
 }
 
 @media (max-width: 768px) {
-    .Heading .p3 {
+    .Heading .p-3 {
         max-width: 80%;
     }
 }

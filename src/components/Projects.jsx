@@ -64,13 +64,6 @@ const Projects = () => {
                 </IconButton>
               </Tooltip>
             }
-            vite={
-              <Tooltip title="Vite" arrow>
-                <IconButton>
-                  <SiVite className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
             jest={
               <Tooltip title="Jest" arrow>
                 <IconButton>
@@ -84,20 +77,6 @@ const Projects = () => {
             para="Developed an internal web application for Apple Engineers to eciently update product metadata on the Apple Online Store, optimizing the approval workow and enhancing transparency"
             img={Apple}
             link=""
-            html5={
-              <Tooltip title="HTML5" arrow>
-                <IconButton>
-                  <SiHtml5 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            css3={
-              <Tooltip title="CSS 3" arrow>
-                <IconButton>
-                  <SiCss3 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
             nodejs={
               <Tooltip title="Node Js" arrow>
                 <IconButton>
@@ -125,13 +104,6 @@ const Projects = () => {
             para="Developed a web application for U.S. hospitals to submit MIPS data, enabling medical boards to track healthcare worker performance and determine compensation"
             img={ABFM}
             link=""
-            nodejs={
-              <Tooltip title="Node Js" arrow>
-                <IconButton>
-                  <SiJavascript className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
             react={
               <Tooltip title="React" arrow>
                 <IconButton>
