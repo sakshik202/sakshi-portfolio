@@ -4,12 +4,12 @@ import { useState, useEffect } from "react";
 import Menu from "./Menu";
 
 const Navbar = () => {
-  const [nav, setNav] = useState(false);
-  const [theme, setTheme] = useState("light");
   const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  const [nav, setNav] = useState(false);
+  const [theme, setTheme] = useState(mediaQuery.matches ? "dark" : "light");
 
   useEffect(() => {
-    if (mediaQuery.matches || theme === "dark") {
+    if (theme === "dark") {
       document.documentElement.classList.remove("light");
       document.documentElement.classList.add("dark");
     }else{
@@ -24,7 +24,7 @@ const Navbar = () => {
   };
 
   mediaQuery.addEventListener('change', handleChange);
-  
+
   const handleTheme = () => {
     setTheme(theme === "dark" ? "light" : "dark");
   };
