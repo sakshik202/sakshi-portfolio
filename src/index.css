@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    @apply overflow-x-hidden scroll-smooth
+}
+
+body {
+    @apply dark:bg-[#00040f]
+}
+
+@media (min-width: 1200px) {
+    #about .WRAPPER {
+        gap: 30rem;
+    }
+
+    .IMG.grid div {
+        margin-left: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .Heading .p3 {
+        max-width: 80%;
+    }
+}
