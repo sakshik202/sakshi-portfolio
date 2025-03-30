@@ -12,7 +12,7 @@ import react from "../assets/React.png";
 import Vue from "../assets/Vue.png";
 
 import Collge from "../assets/college.png";
-import Wipro from "../assets/wipro.png";
+import Wipro from "../assets/Wipro.png";
 import Figmd from "../assets/Figmd.png";
 
 import Apple from "../assets/Apple.png";
