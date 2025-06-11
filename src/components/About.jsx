@@ -11,7 +11,7 @@ const About = () => {
         <div className="WRAPPER mt-12 flex max-sm:flex-col gap-5">
           <div className="INTRO text-[70px] leading-[80px] font-semibold max-sm:text-[50px] max-sm:leading-[70px] max-sm:font-semibold">
             <h3 className="text-[#00040f] dark:text-white">
-              Hi, there! <br />I am
+              Hey, there! <br />I am
             </h3>
             <span className="bg-clip-text text-transparent bg-gradient-to-r  from-blue-600 to-green-600 dark:from-green-500 dark:to-slate-200">
               Anup Parkhi
