@@ -7,8 +7,9 @@ import {
   SiGmail,
 } from "react-icons/si";
 
-import Anup_Photo from "../assets/AnupPhoto.png";
-import Anup_Resume from "../assets/Anup_Resume.pdf";
+import Sakshi_Photo from "../assets/SakshiPhoto.jpeg";
+import Sakshi_Resume from "../assets/Sakshi_Resume.pdf";
+
 
 const Contact = () => {
   return (
@@ -48,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="flex gap-5 max-sm:justify-center">
 
-              <a href={Anup_Resume} download>
+              <a href={Sakshi_Resume} download>
                 <button className="py-3 px-4 bg-gradient-to-t dark:from-green-500 dark:to-slate-300  from-blue-600 to-cyan-600 font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
                   Resume
                 </button>
@@ -58,7 +59,7 @@ const Contact = () => {
 
           <div className="IMG p-0 max-sm:grid max-sm:place-content-center">
             <img
-              src={Anup_Photo}
+              src={sakshi_Photo}
               alt="sakshi khanapure"
               className="h-[200px] max-sm:h-[150px] border-[#00040fab] dark:border-slate-300 border-4 rounded-full mt-12"
             />
