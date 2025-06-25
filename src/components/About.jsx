@@ -14,11 +14,11 @@ const About = () => {
               Hey, there! <br />I am
             </h3>
             <span className="bg-clip-text text-transparent bg-gradient-to-r  from-blue-600 to-green-600 dark:from-green-500 dark:to-slate-200">
-              Anup Parkhi
+              sakshi khanapure
 
             </span>
             <p className="ABOUT text-xl max-sm:text-[15px] bg-clip-text text-transparent  bg-gradient-to-r  from-[#00040f] to-slate-500 dark:from-slate-500 dark:to-slate-200 max-w-[470px] mt-5 pl-1">
-              Experienced web developer with 7 years of expertise in building dynamic, user-friendly websites and applications. Passionate about using innovative solutions to solve real-world problems and enhance user experiences.
+              Software Engineer with 2 years of experience building robust web applications and automating cloud infrastructure. Skilled in Python, AWS, Docker, and Kubernetes, with a strong grasp of backend systems and databases. I focus on creating scalable, efficient solutions that solve real-world problems and are easy to maintain.
             </p>
           </div>
           <Lottie
