@@ -31,18 +31,18 @@ const Experience = () => {
             data-aos="zoom-in-up"
           >
             <Exp_prop
-              img={Figmd}
-              title="FIGmd India Pvt. Ltd"
+              img={elata}
+              title="Elata Technologies"
               subtitle="Software Developer"
-              date="December 2017 - September 2020"
-              para="- Handled the enhancement of web applications as a Full Stack Developer and collaborated with technical operations teams to quickly resolve customer-impacting issues."
+              date="August 2022 - November 2023"
+              para="-  Automated infrastructure with Python, Ansible, and Terraform; deployed scalable containerized applications on AWS EKS; maintained CI/CD pipelines with Jenkins to ensure smooth, secure releases."
             />
             <Exp_prop
-              img={Wipro}
-              title="Wipro Ltd"
-              subtitle="Software Engineer"
-              date="October 2022 - present"
-              para="- Developed MERN stack applications, led the training and onboarding of new team members, conducted technical interviews, prepared coding assessments to evaluate candidates' skills."
+              img={elata}
+              title="Elata Technologies"
+              subtitle="Software Engineer Intern"
+              date="September 2019 - March 2020"
+              para="- Built dynamic web apps using AngularJS and SQL, writing optimized database queries and managing version control with Git. Automated deployment and routine tasks using Bash and Python scripts to streamline development"
             />
           </div>
         </div>
