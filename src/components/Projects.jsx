@@ -100,7 +100,7 @@ const Projects = () => {
             }
           />
           <Project_prop
-            title="American Board of Family Medicine (ABFM)"
+            title="Family Medicine (ABFM)"
             para="Developed a web application for U.S. hospitals to submit MIPS data, enabling medical boards to track healthcare worker performance and determine compensation"
             img={ABFM}
             link=""
