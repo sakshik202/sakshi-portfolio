@@ -7,7 +7,7 @@ import Python from "../assets/Python.png";
 import Javascript from "../assets/Javascript.png";
 import Git from "../assets/Git.png";
 import HTML from "../assets/HTML.png";
-import Java from "../assets/Java.png";
+import Java from "../assets/java.png";
 import linux from "../assets/linux-logo-blue.png";
 import terraform from "../assets/terraform.png";
 import ansible from "../assets/ansible.png";
