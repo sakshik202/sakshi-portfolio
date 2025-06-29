@@ -40,7 +40,7 @@ const Contact = () => {
                 <SiLinkedin />
               </a>
               <a
-                href="mailto:sakshi@example.com"
+                href="mailto:sakshi.khanapure20@gmail.com"
                 className="hover:text-slate-500 dark:hover:text-sky-300"
               >
                 <SiGmail />
@@ -59,7 +59,7 @@ const Contact = () => {
             <img
               src={Sakshi_Photo}
               alt="sakshi khanapure"
-              className="h-[200px] max-sm:h-[150px] border-[#00040fab] dark:border-slate-300 border-4 rounded-full mt-12"
+              className="w-[200px] h-[200px] max-sm:w-[150px] max-sm:h-[150px] object-cover rounded-full border-[#00040fab] dark:border-slate-300 border-4 mt-12"
             />
           </div>
         </div>
