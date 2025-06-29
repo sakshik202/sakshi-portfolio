@@ -1,39 +1,43 @@
-import Typescript from "../assets/Typescript.png";
+import docker from "../assets/docker.png";
 import Mysql from "../assets/Mysql.png";
-import HTML from "../assets/HTML.png";
-import Github from "../assets/Github.png";
+import AWS from "../assets/AWS.svg";
+import kubernetes from "../assets/kubernetes.png";
 import CSS from "../assets/CSS.png";
 import Python from "../assets/Python.png";
 import Javascript from "../assets/Javascript.png";
 import Git from "../assets/Git.png";
-import Vite from "../assets/Vite.png";
-import TailwindCSS from "../assets/TailwindCSS.png";
-import react from "../assets/React.png";
-import Vue from "../assets/Vue.png";
+import HTML from "../assets/HTML.png";
+import Java from "../assets/Java.png";
+import linux from "../assets/linux-logo-blue.png";
+import terraform from "../assets/terraform.png";
+import ansible from "../assets/ansible.png";
+import grafana from "../assets/grafana.png";
+import mongodb from "../assets/mongodb.png";
 
-import Collge from "../assets/college.png";
-import Wipro from "../assets/Wipro.png";
-import Figmd from "../assets/Figmd.png";
+import Collge from "../assets/UTA.png";
+import elata from "../assets/elata.png";
 
 import Apple from "../assets/Apple.png";
 import ABFM from "../assets/ABFM.png";
 
 export {
-  Typescript,
+  docker,
   Mysql,
-  HTML,
+  AWS,
+  kubernetes,
   CSS,
-  Github,
-  Git,
-  Vite,
-  TailwindCSS,
-  react,
   Python,
   Javascript,
-  Vue,
+  Git,
+  HTML,
+  Java,
+  linux,
+  terraform,
+  ansible,
+  grafana,
+  mongodb,
   Collge,
   Apple,
   ABFM,
-  Wipro,
-  Figmd,
+  elata,
 };

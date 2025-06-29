@@ -38,7 +38,7 @@ const Navbar = () => {
               href="#"
               className="text-3xl bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent dark:text-green-500 max-sm:text-2xl"
             >
-              {"<Anup/>"}
+              {"<Sakshi/>"}
             </a>
           </div>
           <div className="NAVLINKS text-[20px] translate-x-[80px] max-sm:hidden flex gap-12 text-[#00040f] dark:text-[#e1e1e1] ">

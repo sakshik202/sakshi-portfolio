@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Personal Portfolio Website of Anup Parkhi
+Personal Portfolio Website of Sakshi Khanapure
 <br>
   <hr>
 

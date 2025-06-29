@@ -1,16 +1,19 @@
 import {
-  HTML,
+  docker,
+  Mysql,
+  AWS,
+  kubernetes,
   CSS,
-  Github,
-  Git,
-  Vite,
-  TailwindCSS,
-  react,
   Python,
   Javascript,
-  Mysql,
-  Typescript,
-  Vue
+  Git,
+  HTML,
+  Java,
+  linux,
+  terraform,
+  ansible,
+  grafana,
+  mongodb,
 } from "../constants/Constant";
 
 import AOS from "aos";
@@ -32,18 +35,22 @@ const Skills = () => {
           className="IMG grid place-content-center p-5 grid-cols-3 gap-4 max-sm:p-2 mt-10"
           data-aos="zoom-out-up"
         >
-          <Image img={HTML}></Image>
+          <Image img={Python}></Image>
+          <Image img={Java}></Image>
+          <Image img={linux}></Image>
+         
+          <Image img={AWS}></Image>
+          <Image img={kubernetes}></Image>
+           <Image img={docker}></Image>
+           <Image img={terraform}></Image>
+           <Image img={ansible}></Image>
+           <Image img={Mysql}></Image>
           <Image img={CSS}></Image>
           <Image img={Javascript}></Image>
-          <Image img={react}></Image>
-          <Image img={TailwindCSS}></Image>
-          <Image img={Vue}></Image>
-          <Image img={Mysql}></Image>
-          <Image img={Typescript}></Image>
-          <Image img={Python}></Image>
-          <Image img={Vite}></Image>
           <Image img={Git}></Image>
-          <Image img={Github}></Image>
+          <Image img={HTML}></Image>
+          <Image img={grafana}></Image>
+          <Image img={mongodb}></Image>
         </div>
       </section>
     </>
