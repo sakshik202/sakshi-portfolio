@@ -31,14 +31,14 @@ const Experience = () => {
             data-aos="zoom-in-up"
           >
             <Exp_prop
-              img={elata}
+              img={Figmd}
               title="Elata Technologies"
               subtitle="Software Developer"
               date="August 2022 - November 2023"
               para="-  Automated infrastructure with Python, Ansible, and Terraform; deployed scalable containerized applications on AWS EKS; maintained CI/CD pipelines with Jenkins to ensure smooth, secure releases."
             />
             <Exp_prop
-              img={elata}
+              img={Wipro}
               title="Elata Technologies"
               subtitle="Software Engineer Intern"
               date="September 2019 - March 2020"
