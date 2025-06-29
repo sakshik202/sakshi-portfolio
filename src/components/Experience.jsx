@@ -42,7 +42,7 @@ const Experience = () => {
               title="Elata Technologies"
               subtitle="Software Engineer Intern"
               date="September 2019 - March 2020"
-              para="- Built dynamic web apps using AngularJS and SQL, writing optimized database queries and managing version control with Git. Automated deployment and routine tasks using Bash and Python scripts to streamline development"
+              para="- Built dynamic web apps using AngularJS and SQL, writing optimized database queries and managing version control with Git. Automated deployment and routine tasks using Bash and Python scripts to streamline development."
             />
           </div>
         </div>
